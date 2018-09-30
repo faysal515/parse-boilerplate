@@ -1,0 +1,10 @@
+{
+    "parse": {
+        "MONGODB_URI": "mongodb://localhost:27017/sample",
+        "appId": "sample",
+        "masterKey": "master",
+        "dashboardUser": "username",
+        "dashboardPassword": "password",
+        "PORT": 8081
+    }
+}
